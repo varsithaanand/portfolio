@@ -68,19 +68,6 @@ May 2026 – May 2026
 
 Worked with HTML, CSS, and JavaScript while developing web-based projects.
 
-## 📄 Resume
-
-You can download my resume from the portfolio website.
-
-## 🔗 Connect With Me
-
-- GitHub: https://github.com/varsithaanand
-- LinkedIn: Add your LinkedIn profile link here
-
-## 🌐 Portfolio
-
-Live Portfolio: Add your GitHub Pages link here
-
 ## 📌 Future Improvements
 
 - Add more projects
